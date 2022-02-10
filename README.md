@@ -1,7 +1,7 @@
 # Notes App
 
 
-This is a single-page app that uses React for the front-end and Django Rest Framework for the back-end.
+This is a full-stack web app that allows users to create, read, update and delete notes. I built a RESTful API that serves data to a single-page React front-end with stateful components and hooks.
 ## Tech Stack
 
 **Client:** React, CSS, HTML
@@ -20,12 +20,9 @@ This is a single-page app that uses React for the front-end and Django Rest Fram
 
 ## Screenshots
 
-![App Screenshot](notesapp\images\notesapp.png)
-![App Screenshot](notesapp\images\notesapp-note.png)
+![App Screenshot](assets/notesapp.png)
+![App Screenshot](assets/notesapp-note.png)
 
 
 
-## Demo
-
-Insert gif or link to demo
 
